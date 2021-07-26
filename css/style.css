@@ -70,6 +70,10 @@ body {
     padding-right: 22px;
 }
 
+.search-input:focus {
+    outline: none;
+}
+
 .search-button {
     display: flex;
     align-items: center;
